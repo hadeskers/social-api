@@ -1,7 +1,7 @@
 {
     "name": "hadesker/social-api",
     "type": "library",
-    "description": "Login or register via Social API",
+    "description": "Login or register via Social API.",
     "keywords": ["framework", "social", "api", "login", "register", "facebook", "google", "zalo", "naver", "kakao"],
     "homepage": "http://hadesker.net",
     "license": "MIT",
