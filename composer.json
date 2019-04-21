@@ -1,0 +1,24 @@
+{
+    "name": "hadesker/social-api",
+    "type": "library",
+    "description": "Login or register via Social API",
+    "keywords": ["framework", "social", "api", "login", "register", "facebook", "google", "zalo", "naver", "kakao"],
+    "homepage": "http://hadesker.net",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "namnguyen12041994",
+            "email": "namnguyen12041994@gmail.com",
+            "homepage": "http://hadesker.net"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.*"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Hadesker\\SocialApi\\": "packages/hadesker/social-api/src"
+        }
+    }
+}
