@@ -6,6 +6,8 @@ Curl User Info from Social. Support: facebook, google, zalo, naver, kakao (via a
 [![Total Downloads](https://img.shields.io/packagist/dt/hadesker/social-api.svg?style=flat-square)](https://packagist.org/packages/hadesker/social-api)
 
 
+Curl User Info from Social. Support: facebook, google, zalo, naver, kakao (via access token)
+
 Install: *composer require hadesker/social-api*
 
 
